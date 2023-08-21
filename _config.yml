@@ -19,7 +19,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🦾  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 #url: https://daniellawson99999.github.io # the base hostname & protocol for your site
-url: https://danielblawson.github.io/
+url: https://danielblawson.github.io
 #baseurl: /portfolio # the subpath of your site, e.g. /blog/
 baseurl: /
 last_updated: false # set to true if you want to display last updated in the footer
