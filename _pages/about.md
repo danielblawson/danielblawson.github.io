@@ -11,7 +11,7 @@ years: [2023,2022]
 profile:
   align: right
   #image: prof_pic.jpg
-  image: me-crop.jpg
+  image: me-crop-blur.png
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
