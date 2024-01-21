@@ -7,7 +7,7 @@ permalink: /
 # redirect_to:
 #   - https://danielblawson.github.io/
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-years: [2023,2022]
+years: [2024, 2023,2022]
 profile:
   align: right
   #image: prof_pic.jpg
@@ -57,7 +57,7 @@ contact: daniellawson9999 (at) gmail.com
 - [Online Decision Transformer](https://github.com/daniellawson9999/online-decision-transformer)
 - [Gato for Control](https://github.com/daniellawson9999/gato-control)
 
-## Highlighted Projects 
+## Other Projects 
 Additional projects can be found on my [GitHub](https://github.com/daniellawson9999).
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
