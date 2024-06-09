@@ -12,7 +12,8 @@ years: [2023,2022]
 profile:
   align: right
   #image: prof_pic.jpg
-  image: me-crop-blur.png
+  #image: me-crop-blur.png
+  image: store2.jpg
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
@@ -35,6 +36,21 @@ contact: daniellawson9999 (at) gmail.com
 
 <br>
 <br>
+
+<!-- Social -->
+{%- if page.social %}
+<div class="social">
+  <div class="contact-icons">
+  {% include social.html %}
+  </div>
+
+  <div class="contact-note">
+    {{ site.contact_note }}
+  </div>
+  
+</div>
+{%- endif %}
+
 
 
 ## Papers
