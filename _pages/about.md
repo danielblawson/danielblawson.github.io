@@ -26,10 +26,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Daniel.
 
-I am generally interested in machine learning,  reinforcement learning, and robotics. I am also working on research with Professor [Ahmed Qureshi](https://qureshiahmed.github.io/) in the [Cognitive Robot Autonomy & Learning Lab](https://corallab.net/).
+I am generally interested in machine learning, reinforcement learning, and robotics. 
 
-I'm a (4+1) BS/MS CS student @ Purdue University. I completed the BS part of my degree in Spring 2023, and now completing the MS portion with an estimated graduation in Spring 2024.
-
+Previously, I was a (4+1) BS,MS CS student @ Purdue University, graduating in Spring 2023, 2024, where I worked on research with Professor [Ahmed Qureshi](https://qureshiahmed.github.io/) in the [Cognitive Robot Autonomy & Learning Lab](https://corallab.net/).
 
 contact: daniellawson9999 (at) gmail.com
 
@@ -56,7 +55,7 @@ contact: daniellawson9999 (at) gmail.com
 
 ## Paper Implementations
 - [Online Decision Transformer](https://github.com/daniellawson9999/online-decision-transformer)
-- [Gato for Control](https://github.com/daniellawson9999/gato-control)
+- [Gato for Control](https://github.com/daniellawson9999/gato-control), part of implementation for Manifold's Neko project
 
 ## Other Projects 
 Additional projects can be found on my [GitHub](https://github.com/daniellawson9999).
