@@ -25,7 +25,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Daniel. Starting Fall 2024, I am a PhD student at [Mila](https://mila.quebec/en) and [Université de Montréal](https://www.umontreal.ca/).
+Hi, I'm Daniel. Since Fall 2024, I am a PhD student at [Mila](https://mila.quebec/en) and the [Université de Montréal](https://www.umontreal.ca/).
 
 I am generally interested in machine learning, reinforcement learning, and robotics. 
 
