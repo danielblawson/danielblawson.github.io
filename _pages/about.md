@@ -25,11 +25,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Daniel.
+Hi, I'm Daniel. Starting Fall 2024, I am a PhD student at [Mila](https://mila.quebec/en) and [Université de Montréal](https://www.umontreal.ca/).
 
 I am generally interested in machine learning, reinforcement learning, and robotics. 
 
-Previously, I was a (4+1) BS,MS CS student @ Purdue University, graduating in Spring 2023, 2024, where I worked on research with Professor [Ahmed Qureshi](https://qureshiahmed.github.io/) in the [Cognitive Robot Autonomy & Learning Lab](https://corallab.net/).
+Previously, I was a (4+1) BS,MS CS student @ Purdue University, graduating in Spring 2024, where I worked on research with Professor [Ahmed Qureshi](https://qureshiahmed.github.io/) in the [Cognitive Robot Autonomy & Learning Lab](https://corallab.net/).
 
 contact: daniellawson9999 (at) gmail.com
 
