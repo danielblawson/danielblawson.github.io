@@ -25,7 +25,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Daniel. Since Fall 2024, I am a PhD student at [Mila](https://mila.quebec/en) and the [Université de Montréal](https://www.umontreal.ca/).
+Hi, I'm Daniel. Since Fall 2024, I am a PhD student at [Mila](https://mila.quebec/en) and the [Université de Montréal](https://www.umontreal.ca/), where I am advised by Professor [Glen Berseth](https://neo-x.github.io/) and Dr. [Khimya Khetarpal](https://kkhetarpal.github.io/).
 
 I am generally interested in machine learning, reinforcement learning, and robotics. 
 
